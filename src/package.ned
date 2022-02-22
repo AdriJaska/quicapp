@@ -1,0 +1,3 @@
+package quicapp;
+
+@license(LGPL);
