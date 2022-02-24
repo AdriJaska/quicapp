@@ -30,3 +30,17 @@
 *.exe
 *.out
 *.app
+
+#OMNET
+
+/Makefile
+/.settings
+/out
+/simulations/.qtenvrc
+/simulations/run
+/src/Makefile
+/.cproject
+/.nedexclusions
+/.nedfolders
+/.oppbuildspec
+/.project
